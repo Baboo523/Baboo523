@@ -24,6 +24,9 @@
 <ul>
     <li>Facebook Login Page => 🔗 https://baboo523.github.io/Facebook-Login-Page/</li>
     <li>Saylani Login Form => 🔗 https://baboo523.github.io/Saylani-Login-Form//</li>
+    <li>E-commerce Website => 🔗 https://baboo523.github.io/Ecommerce-website/</li>
+    <li>JavaScript Calculator => 🔗 https://baboo523.github.io/Calculator-App/ </li>
+    <li>Registraction Form => 🔗 https://baboo523.github.io/Registraction-form/<li>
 </ul>
 
 
