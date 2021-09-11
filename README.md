@@ -31,6 +31,7 @@
     <li>Todo App using PHP and MySql => 🔗 https://github.com/Baboo523/To-Do-App-Using_PHP_And_MySql</li>
     <li> Stop Watching Web App => 🔗 https://stop-watch-4eeca.web.app/ </li>
     <li>Todo App using JavaScript and Firebase => 🔗https://todo-web-app-a8a1d.web.app/</li>
+    <li> Education Website => 🔗 https://baboo523.github.io/University-Website/ </li>
 </ul>
 
 ## 🚀 Languages and Tools:
